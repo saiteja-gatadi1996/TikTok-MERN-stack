@@ -1,0 +1,3 @@
+[submodule "TikTok"]
+	path = TikTok
+	url = https://github.com/saiteja-gatadi1996/MERN-TikTok.git
